@@ -1,0 +1,12 @@
+Herança disjunta
+Entidade Fraca
+Multivalorado
+Composto
+N:N
+1:1
+1:N
+atributo derivado
+Entidade Associativa
+
+FALTANDO
+Herança sobreposta
